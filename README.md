@@ -16,3 +16,7 @@ This is my final-year project — a full-stack web application that lets users c
 * What I Learned
 - Real-world CRUD development
 - System design for dynamic builds
+
+![image](https://github.com/user-attachments/assets/42587f13-de65-4416-889c-b15f44eb659b)
+![image](https://github.com/user-attachments/assets/0d1e2aec-eee0-4368-9867-2d1cb9b09b62)
+
